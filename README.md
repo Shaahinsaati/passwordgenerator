@@ -28,6 +28,7 @@ A simple password generator with a graphical user interface (GUI) built in Pytho
 
 - Python 3.x
 - Tkinter library (included with Python)
+- pyoerclip (For copy generated password)
 
 ### Installation
 
