@@ -11,7 +11,6 @@ A simple password generator with a graphical user interface (GUI) built in Pytho
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -36,3 +35,16 @@ A simple password generator with a graphical user interface (GUI) built in Pytho
 
    ```bash
    git clone https://github.com/yourusername/password-generator.git
+### Usage
+Run the application:
+
+python main.py
+Enter your desired password length, select whether to include digits and special characters, and click the "Generate Password" button.
+
+The generated password will be displayed on the GUI.
+
+You can also click the "Copy Password" button to copy the generated password to the clipboard for easy pasting.
+
+### Acknowledgments
+Special thanks to the Tkinter library for providing the graphical user interface components.
+This project is based on the password_generator project by Shaahin Saati.
