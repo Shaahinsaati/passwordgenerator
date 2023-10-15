@@ -2,7 +2,7 @@
 
 A simple password generator with a graphical user interface (GUI) built in Python using the Tkinter library.
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](screenshot![Annotation 2023-10-15 180230](https://github.com/Shaahinsaati/passwordgenerator/assets/79929024/1a21b25b-8d9f-426b-9a5c-1ece1f7c4e0a))
 
 ## Table of Contents
 
