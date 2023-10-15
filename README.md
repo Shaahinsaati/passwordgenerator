@@ -47,6 +47,9 @@ The generated password will be displayed on the GUI.
 
 You can also click the "Copy Password" button to copy the generated password to the clipboard for easy pasting.
 
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ### Acknowledgments
 - Special thanks to the Tkinter library for providing the graphical user interface components.
 - This project is based on the password_generator project by Shaahin Saati.
